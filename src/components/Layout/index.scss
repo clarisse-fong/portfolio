@@ -50,7 +50,7 @@
     margin-bottom: 40px;
     left: -10px;
 
-    &::before {
+    &:before {
       content: '<h1>';
       font-family: 'La Belle Aurore';
       font-size: 18px;
@@ -60,7 +60,7 @@
       opacity: 0.6;
       list-style: 18px;
     }
-    &::after {
+    &:after {
       content: '<h1 />';
       font-family: 'La Belle Auorore', cursive;
       font-size: 18px;
